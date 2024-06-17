@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\DrawText.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Ghost.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\GhostManager.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Main.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\MapCollision.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Pacman.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\ConvertSketch.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\DrawMap.cpp">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\ConvertSketch.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\DrawMap.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\DrawText.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\Ghost.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\GhostManager.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\Global.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\MapCollision.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Headers\Pacman.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="pacman_sfml.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Resources\Images\PacmanDeath16.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Resources\Images\Font.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Resources\Images\Ghost16.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Resources\Images\Map16.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Users\israelgs\Desktop\Pacman-Main\Source\Resources\Images\Pacman16.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
